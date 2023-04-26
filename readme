@@ -4,6 +4,9 @@ Some small differences:
 - I continue to do bisection and Brent for all meshes instead of switching to secant method with deflation
 - I do not have partial pivoting in my inverse iteration tridiagonal solver (at this point)
 
+A big difference:
+- Elastic layers are not supported 
+
 File list:
 -pynm_env.py
     The Env object used to manage all of the environmental parameters
