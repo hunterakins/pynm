@@ -1,3 +1,10 @@
+THIS IS AN OLDER ATTEMPT AT A PYTHON NORMAL MODE SOLVER.
+I EVENTUALLY SCRAPPED THIS, OPTING TO GO FOR A MORE DIRECT TRANSLATION OF KRAKEN WHICH IS FOUND AT
+https://github.com/hunterakins/pykrak
+THIS IS THE MOST UP TO DATE
+
+
+
 Python implementation of normal mode solver for underwater acoustic propagation.
 More or less a translation of Michael Porter's KRAKEN.
 Some small differences:
